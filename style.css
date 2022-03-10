@@ -1,0 +1,15 @@
+.chart-plot-background {
+   -fx-background-color: transparent;
+}
+.radio-button .radio{
+    -fx-border-width: 0px;
+    -fx-border-radius: 0px;
+    -fx-padding: 0.5px;
+    -fx-background-color: transparent;
+} 
+.radio-button:selected {  
+	-fx-border-width: 0px;
+    -fx-border-radius: 0px;
+    -fx-padding: 0px;
+    -fx-background-color: transparent;
+}
